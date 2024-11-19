@@ -1,7 +1,7 @@
 # FarmShed - Grocery [E-commerce] 🌱
 FarmShed is a modern grocery e-commerce website designed to make online grocery shopping simple and convenient. Built using ReactJS and styled with Tailwind CSS, this project demonstrates a clean and responsive user interface for seamless shopping.
 
-🌟 Features
+### Features 🌟
 User-friendly Interface: Easy navigation and intuitive design for browsing and purchasing groceries.
 Dynamic Cart Functionality:
 Add and remove items with real-time updates.
