@@ -11,6 +11,7 @@ Responsive Design: Fully functional across devices, from desktops to mobile phon
 Lightweight and Fast: Optimized with React and Tailwind for smooth performance.
 ## Technologies Used 🛠️
 `Frontend:` ReactJS
+
 `Styling:` Tailwind CSS
 
 ![farmshed](https://github.com/user-attachments/assets/f9818b41-d265-4ad0-b6cc-ac7e9ed0038f)
