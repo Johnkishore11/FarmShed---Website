@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/FarmShed---Website/static/css/main.8fda7972.css",
+    "main.js": "/FarmShed---Website/static/js/main.307bad93.js",
+    "static/media/eggs.png": "/FarmShed---Website/static/media/eggs.f6dcd841cef048271da8.png",
+    "static/media/brinjal.jpg": "/FarmShed---Website/static/media/brinjal.ccba72b3a2733a77d98c.jpg",
+    "static/media/carrot.jpg": "/FarmShed---Website/static/media/carrot.37f57898014b430d03a2.jpg",
+    "static/media/crossandra.jpg": "/FarmShed---Website/static/media/crossandra.1d22105450c3f194e855.jpg",
+    "static/media/green beans.jpg": "/FarmShed---Website/static/media/green beans.9a287d741bb836b44458.jpg",
+    "static/media/cucumber.jpg": "/FarmShed---Website/static/media/cucumber.8cdc535b6b6c8f149809.jpg",
+    "static/media/greenimage2.jpg": "/FarmShed---Website/static/media/greenimage2.7f056bfe9ca884065e2a.jpg",
+    "static/media/tomatoes.jpg": "/FarmShed---Website/static/media/tomatoes.d0b4fab344e2ccc3bd50.jpg",
+    "static/media/rose.jpg": "/FarmShed---Website/static/media/rose.a6ac005a575a9a1390fb.jpg",
+    "static/media/lemon.jpg": "/FarmShed---Website/static/media/lemon.98b97f0b757aaee34679.jpg",
+    "static/media/mango.jpg": "/FarmShed---Website/static/media/mango.694aa985ee92ed059b92.jpg",
+    "static/media/Olive oil.jpg": "/FarmShed---Website/static/media/Olive oil.766fe9b5500f78bcff51.jpg",
+    "static/media/pomegranate.jpg": "/FarmShed---Website/static/media/pomegranate.23a57849c5a938d67458.jpg",
+    "static/media/watermelon.jpg": "/FarmShed---Website/static/media/watermelon.a9ae06f961e870cc43cc.jpg",
+    "static/media/papaya.jpg": "/FarmShed---Website/static/media/papaya.2c6be5e032f57c3ae388.jpg",
+    "static/media/pineapple.jpg": "/FarmShed---Website/static/media/pineapple.af168a1fc8b352663ca4.jpg",
+    "static/media/Chicken.jpg": "/FarmShed---Website/static/media/Chicken.bb8233543764a0634b06.jpg",
+    "static/media/banana.jpg": "/FarmShed---Website/static/media/banana.58280ab66193fd5fd89c.jpg",
+    "static/media/grapes.jpg": "/FarmShed---Website/static/media/grapes.0029344b4021b1f481e9.jpg",
+    "static/media/coconut oil.jpg": "/FarmShed---Website/static/media/coconut oil.c871d433f346eea750a5.jpg",
+    "static/media/duck.jpg": "/FarmShed---Website/static/media/duck.308d2272bf1bfc520777.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/FarmShed---Website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/peanut oil.jpg": "/FarmShed---Website/static/media/peanut oil.039e54de30ee21b14d43.jpg",
+    "static/media/fontawesome-webfont.eot": "/FarmShed---Website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/FarmShed---Website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/FarmShed---Website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/goat.jpg": "/FarmShed---Website/static/media/goat.90547c1608656fbd073f.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/FarmShed---Website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/milk.jpg": "/FarmShed---Website/static/media/milk.1860d7ad3c6125cd6a72.jpg",
+    "static/media/curd.jpg": "/FarmShed---Website/static/media/curd.5c506f5574bb3e05c21e.jpg",
+    "index.html": "/FarmShed---Website/index.html",
+    "main.8fda7972.css.map": "/FarmShed---Website/static/css/main.8fda7972.css.map",
+    "main.307bad93.js.map": "/FarmShed---Website/static/js/main.307bad93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fda7972.css",
+    "static/js/main.307bad93.js"
+  ]
+}
