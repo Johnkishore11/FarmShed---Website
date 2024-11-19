@@ -17,7 +17,13 @@ Lightweight and Fast: Optimized with React and Tailwind for smooth performance.
 ## Screenshots 📸
 ![farmshed](https://github.com/user-attachments/assets/f9818b41-d265-4ad0-b6cc-ac7e9ed0038f)
 
+## Contact 💬
+For any questions or feedback, feel free to reach out at:
 
+### Email: 
+johnkishore53@gmail.com
+### GitHub: 
+Johnkishore
 
 
 
