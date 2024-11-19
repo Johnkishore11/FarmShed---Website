@@ -9,7 +9,7 @@ View cart summary in a mini-window.
 Total cost and item count displayed dynamically.
 Responsive Design: Fully functional across devices, from desktops to mobile phones.
 Lightweight and Fast: Optimized with React and Tailwind for smooth performance.
-🛠️ Technologies Used
+## Technologies Used 🛠️
 Frontend: ReactJS
 Styling: Tailwind CSS
 
