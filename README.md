@@ -10,8 +10,8 @@ Total cost and item count displayed dynamically.
 Responsive Design: Fully functional across devices, from desktops to mobile phones.
 Lightweight and Fast: Optimized with React and Tailwind for smooth performance.
 ## Technologies Used 🛠️
-Frontend: ReactJS
-Styling: Tailwind CSS
+`Frontend:` ReactJS
+`Styling:` Tailwind CSS
 
 ![farmshed](https://github.com/user-attachments/assets/f9818b41-d265-4ad0-b6cc-ac7e9ed0038f)
 
